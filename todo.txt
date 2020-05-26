@@ -1,0 +1,2 @@
+- Fix up readme
+- Clean up dotfiles
